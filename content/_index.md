@@ -2,86 +2,154 @@
 title: "Jenna Lu"
 ---
 
-## Research Vision
+<div class="homepage-profile">
 
-I am an Honors undergraduate studying Statistics at the University of Florida, with minors in Mathematics and Economics and a Certificate in Fundamentals of Artificial Intelligence. My research focuses on developing interpretable statistical and machine learning methods for biomedical data, with particular interests in statistical learning, uncertainty quantification, and computational methods that support scientific discovery. I aim to build statistical methodology that is both mathematically rigorous and clinically meaningful.
+<img 
+src="/images/profile.jpg"
+alt="Jenna Lu"
+class="homepage-profile-image">
+
+<div class="homepage-profile-text">
+
+<h1>
+Jenna Lu
+</h1>
+
+<h3>
+Statistics Student | Biomedical Data Science Researcher
+</h3>
+
+<div class="homepage-socials">
+<a href="https://github.com/jen-h-lu" target="_blank">
+GitHub
+</a>
+<span> | </span>
+<a href="https://www.linkedin.com/in/jenna-h-lu/" target="_blank">
+LinkedIn
+</a>
+</div>
+
+</div>
 
 ---
 
-## Research Interests
+</div>
 
-{{< columns >}}
+# Research Vision
 
-### Statistical Learning
+Modern biomedical research generates increasingly complex datasets — from physiological signals collected during clinical studies to high-dimensional molecular measurements. My research interest lies in developing statistical and machine learning methods that transform these data into interpretable insights that can advance scientific discovery.
 
-Interpretable predictive modeling, regularization methods, uncertainty quantification, and statisitcal methodology for complex biomedical data. 
+I am an Honors undergraduate Statistics student at the University of Florida pursuing research at the intersection of statistical learning, artificial intelligence, and biomedical data science. My work focuses on creating computational approaches that balance predictive performance with interpretability, uncertainty quantification, and reproducibility. Through applications in neuroscience, molecular biology, and clinical risk prediction, I aim to develop statistical methodology that helps researchers better understand biological systems and make data-driven decisions.
 
-<--->
+---
+
+# Research Journey
+
+My interest in statistics began with a fascination for how mathematical models can reveal patterns hidden within complex systems. During my undergraduate research experiences, I became especially interested in biomedical applications, where statistical methods can help answer questions about human health, disease mechanisms, and treatment response.
+
+#### My current research interests span four areas:
+
+<div class="research-grid">
+
+<div class="research-card">
+
+### Interpretable Statistical Learning
+
+Developing models that reveal why predictions are made through explainability, uncertainty quantification, and statistically principled inference.
+
+</div>
+
+
+<div class="research-card">
 
 ### Biomedical Data Science
 
-Developing computational methods for physiological molecular, and clinical datasets to improve scientific understanding and healthcare decision-making. 
+Applying statistical methodology to complex biological datasets, including physiological signals, molecular measurements, and clinical health data.
 
-{{< /columns >}}
+</div>
 
 
-{{< columns >}}
+<div class="research-card">
 
-### Artificial Intelligence
+### Computational Statistics & AI
 
-Building machine learning models that prioritize scientific insight, interpretability, and reproducibility rather than prediction alone. 
+Designing efficient, reproducible computational methods that combine statistical theory with modern machine learning approaches.
 
-<--->
+</div>
 
-### Statistical Computing
 
-Designing reproducible computational workflows, scalable analyses, and open-source statistical software.
+<div class="research-card">
 
-{{< /columns >}}
+### Scientific Discovery Through Data
 
----
+Using quantitative methods as tools for understanding biological systems rather than treating prediction as the only objective.
+
+</div>
+
+</div>
+
+--- 
 
 # Featured Research
 
-{{< columns >}}
+<div class="research-grid">
 
-### Neurological Aspects of Addiction Lab 
+<div class="research-card">
 
-Analyzing heart rate variability and physiological signals to investigate physiological responses associated with addiction neuroscience.
+### Neurological Aspects of Addiction Laboratory
+#### Undergraduate Researcher | University of Florida
+
+Analyzing physiological time-series data from a clinical neuroscience study investigating addiction and ADHD. My work focuses on extracting cardiovascular patterns and applying statistical modeling approaches to understand physiological responses under experimental conditions.
 
 **Methods**
 
 - Heart rate variability analysis
 - Signal processing
+- Feature extraction
 - Mixed-effects modeling
 - Statistical inference
 
-<--->
+</div>
 
-### Preventative Medicine Research
 
-Investigating how vaccine-induced off-target immune effects may inform next-generation preventative medicine and strategies for reducing long-term disease risk, including neurodegenerative disorders.
+<div class="research-card">
+
+### Computational Biology & Representation Learning
+#### UF Scripps Institute | Nettles Lab
+
+Developing self-supervised learning approaches for molecular dynamics datasets to predict breast cancer drug efficacy. My work explores how representation learning can identify biological patterns within complex molecular systems.
 
 **Methods**
 
-- Scientific literature synthesis
-- Evidence evaluation
-- Translational medicine
-- Preventative health research
+- Autoencoder architectures
+- Self-supervised learning
+- Molecular dynamics data
+- Representation learning
+- Computational biology
 
-{{< /columns >}}
+</div>
+
+</div>
+
+---
+# Research Philosophy
+
+I am interested in the space where statistical theory meets real-world scientific problems. While machine learning models can achieve impressive predictive performance, biomedical applications require more: understanding uncertainty, identifying meaningful biological relationships, and developing methods researchers can trust. My goal is to create statistical methodology that is not only accurate, but interpretable, reproducible, and capable of contributing to scientific discovery.
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-{{< columns >}}
+<div class="research-grid">
+
+<div class="research-card">
 
 ### Interpretable CHD Risk Prediction
 
 Developed an end-to-end statistical learning pipeline for predicting 10-year coronary heart disease risk using the Framingham Heart Study.
 
-Implemented:
+**Implemented**
+
 - Logistic regression
 - LASSO regularization
 - Calibration analysis
@@ -89,34 +157,39 @@ Implemented:
 - SHAP interpretation
 
 
+
 {{< button href="/projects/chd-risk/" >}}
 View Project
 {{< /button >}}
 
+</div>
 
-<--->
 
-### Biomedical Machine Learning
+<div class="research-card">
 
-Exploring computational approaches for extracting meaningful biological representations from complex biomedical datasets.
+### Biomedical Representation Learning
 
-Research areas include:
+Developing computational methods to extract meaningful biological patterns from high-dimensional molecular datasets.
 
+**Methods**
+
+- Principal component analysis
 - Representation learning
-- Deep learning
+- Autoencoder architectures
 - Computational biology
-- Explainable AI
 
 
-{{< button href="/projects/biomedical-ml/" >}}
+{{< button href="/projects/pca-analysis/" >}}
 View Project
 {{< /button >}}
 
-{{< /columns >}}
+</div>
+
+</div>
 
 ---
 
-## Currently
+# Currently ...
 
 I am conducting undergraduate research in the UF Neurological Aspects of Addiction Laboratory under Dr. Amanda Elton, where I analyze physiological time-series data to investigate mechanisms underlying addiction using statistical modeling and mixed-effects methods. 
 

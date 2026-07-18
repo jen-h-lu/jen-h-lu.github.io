@@ -3,10 +3,12 @@ title: "Baseball Analytics"
 date: 2026-07-16
 draft: false
 summary: "Applying statistical analysis and visualization techniques to baseball tracking data."
+
+showHero: true
+heroStyle: "background"
+
 featureImage: "/images/projects/baseball.png"
 ---
-
-# Baseball Analytics
 
 This project explores baseball data through statistical analysis, visualization, and data-driven storytelling.
 

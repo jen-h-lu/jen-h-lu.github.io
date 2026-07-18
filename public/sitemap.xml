@@ -3,21 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jen-h-lu.github.io/projects/pca-analysis/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jen-h-lu.github.io/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/presentations/</loc>
+    <loc>https://jen-h-lu.github.io/projects/</loc>
+    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://jen-h-lu.github.io/projects/baseball/</loc>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://jen-h-lu.github.io/projects/chd-risk/</loc>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://jen-h-lu.github.io/about/</loc>
+  </url>
+  <url>
+    <loc>https://jen-h-lu.github.io/presentations/</loc>
+  </url>
+  <url>
+    <loc>https://jen-h-lu.github.io/research/</loc>
+  </url>
+  <url>
+    <loc>https://jen-h-lu.github.io/resume/</loc>
   </url>
 </urlset>

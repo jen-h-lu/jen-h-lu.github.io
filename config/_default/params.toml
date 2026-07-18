@@ -12,7 +12,7 @@ enableCodeCopy = true
 name = "Jenna Lu"
 image = "images/profile.jpg"
 headline = "Statistics Student | Biomedical Data Science Researcher"
-bio = "Interested in statistical learning, biomedical AI, and interpretable machine learning."
+bio = "Exploring how statistics and AI can reveal insights hidden within complex biological data"
 links = [
   { github = "https://github.com/jen-h-lu" },
   { linkedin = "https://www.linkedin.com/in/jenna-h-lu/" }
@@ -24,6 +24,9 @@ hideAuthor = false
 [article]
 showHero = true
 width = "wide"
+showDate = false
+showDateUpdated = false
+
 
 [list]
 showCards = true
@@ -31,3 +34,7 @@ groupByYear = false
 cardView = true
 
 customCSS = ["css/custom.css"]
+
+[homepage]
+layout = "profile"
+showRecent = false

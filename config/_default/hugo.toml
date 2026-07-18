@@ -3,5 +3,28 @@ languageCode = "en"
 title = "Jenna Lu"
 theme = "blowfish"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params]
 mainSections = ["projects", "research", "posts"]
+customCSS = ["css/custom.css"]
+
+
+[params.homepage]
+layout = "profile"
+showRecent = false
+
+
+[author]
+name = "Jenna Lu"
+image = "images/profile.jpg"
+headline = "Statistics Student | Biomedical Data Science Researcher"
+
+links = [
+  { github = "https://github.com/jen-h-lu" },
+  { linkedin = "https://www.linkedin.com/in/jenna-h-lu/" }
+]

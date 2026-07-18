@@ -1,28 +1,31 @@
 ---
-title: "Principal Component Analysis"
-date: 2026-07-16
+title: "Biomedical Representation Learning"
+date: 2026-07-18
 draft: false
-summary: "Exploring dimensionality reduction and latent structure in high-dimensional datasets."
+summary: "Applying dimensionality reduction and deep learning approaches to extract biological representations from molecular datasets."
+
+showHero: true
+heroStyle: "background"
+
 featureImage: "/images/projects/principal_component.png"
 ---
 
-# Principal Component Analysis
+This project explores computational approaches for extracting meaningful biological representations from complex biomedical datasets. Using dimensionality reduction and representation learning techniques, the goal is to identify hidden structure within high-dimensional molecular data and improve understanding of biological systems.
 
-This project explores principal component analysis (PCA) as a statistical learning technique for identifying underlying structure in high-dimensional datasets.
+## Research Focus
+
+- Representation learning
+- Dimensionality reduction
+- Computational biology
+- Biomedical AI
 
 ## Methods
 
-- Principal component analysis
-- Dimensionality reduction
-- Variance decomposition
-- Data visualization
+- Principal component analysis (PCA)
+- Autoencoder architectures
+- Latent feature extraction
+- Molecular dynamics analysis
 
-## Concepts
+## Research Context
 
-- High-dimensional inference
-- Feature transformation
-- Statistical representation learning
-
-## Motivation
-
-Understanding how complex datasets can be represented in lower-dimensional spaces is central to modern statistical learning and machine learning applications.
+Conducted through the UF Scripps Institute Nettles Lab, this work investigates how machine learning approaches can identify meaningful biological patterns from molecular simulation data.

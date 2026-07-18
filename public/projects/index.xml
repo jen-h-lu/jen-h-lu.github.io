@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jenna Lu</title>
+    <link>https://jen-h-lu.github.io/projects/</link>
+    <description>Recent content in Projects on Jenna Lu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Jenna Lu</copyright>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jen-h-lu.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biomedical Representation Learning</title>
+      <link>https://jen-h-lu.github.io/projects/pca-analysis/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-h-lu.github.io/projects/pca-analysis/</guid>
+      <description>Applying dimensionality reduction and deep learning approaches to extract biological representations from molecular datasets.</description>
+      
+    </item>
+    
+    <item>
+      <title>Baseball Analytics</title>
+      <link>https://jen-h-lu.github.io/projects/baseball/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-h-lu.github.io/projects/baseball/</guid>
+      <description>Applying statistical analysis and visualization techniques to baseball tracking data.</description>
+      
+    </item>
+    
+    <item>
+      <title>Interpretable CHD Risk Prediction</title>
+      <link>https://jen-h-lu.github.io/projects/chd-risk/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-h-lu.github.io/projects/chd-risk/</guid>
+      <description>Interpretable machine learning pipeline for cardiovascular risk prediction.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
