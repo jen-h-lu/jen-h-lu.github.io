@@ -1,5 +1,6 @@
 ---
-title: "Jenna Lu"
+title: "Jenna Lu" 
+showTitle: false
 ---
 
 <div class="homepage-profile">
