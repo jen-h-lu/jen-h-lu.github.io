@@ -1,7 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+body,
+html {
+    font-family: "Lato", sans-serif !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato", sans-serif !important;
+}
+
+/* ---------- Wider content ---------- */
+
 .max-w-prose {
-    max-width: 100% !important;
+    max-width: 1200px !important;
 }
 
 .article-content {
-    max-width: 100% !important;
+    max-width: 1200px !important;
+}
+
+.prose {
+    max-width: 1200px !important;
+}
+
+article {
+    max-width: 1200px !important;
+}
+
+/* ---------- Better spacing ---------- */
+
+.prose h2 {
+    margin-top: 3rem;
+}
+
+.prose h3 {
+    margin-top: 2rem;
+}
+
+.prose p {
+    line-height: 1.8;
 }

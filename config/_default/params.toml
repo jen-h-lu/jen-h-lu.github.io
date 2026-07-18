@@ -11,7 +11,7 @@ enableCodeCopy = true
 [author]
 name = "Jenna Lu"
 image = "images/profile.jpg"
-headline = "Statistics Student | Machine Learning Researcher"
+headline = "Statistics Student | Biomedical Data Science Researcher"
 bio = "Interested in statistical learning, biomedical AI, and interpretable machine learning."
 links = [
   { github = "https://github.com/jen-h-lu" },
