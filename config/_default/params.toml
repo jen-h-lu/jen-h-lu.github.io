@@ -36,5 +36,5 @@ cardView = true
 customCSS = ["css/custom.css"]
 
 [homepage]
-layout = "profile"
+layout = "page"
 showRecent = false

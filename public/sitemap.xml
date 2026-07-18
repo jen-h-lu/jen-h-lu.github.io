@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:58108/projects/pca-analysis/</loc>
+    <loc>http://localhost:61180/projects/pca-analysis/</loc>
     <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:58108/</loc>
+    <loc>http://localhost:61180/</loc>
     <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:58108/projects/</loc>
+    <loc>http://localhost:61180/projects/</loc>
     <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:58108/projects/baseball/</loc>
+    <loc>http://localhost:61180/projects/baseball/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:58108/projects/chd-risk/</loc>
+    <loc>http://localhost:61180/projects/chd-risk/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:58108/about/</loc>
+    <loc>http://localhost:61180/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:58108/presentations/</loc>
+    <loc>http://localhost:61180/presentations/</loc>
   </url>
   <url>
-    <loc>http://localhost:58108/research/</loc>
+    <loc>http://localhost:61180/research/</loc>
   </url>
   <url>
-    <loc>http://localhost:58108/resume/</loc>
+    <loc>http://localhost:61180/resume/</loc>
   </url>
 </urlset>
