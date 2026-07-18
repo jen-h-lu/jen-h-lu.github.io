@@ -93,60 +93,6 @@ hr {
     margin-bottom: 0.25rem;
 }
 
-/* Homepage profile header */
-
-.homepage-profile {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 25px;
-    margin-bottom: 20px;
-}
-
-
-.homepage-profile-image {
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
-    object-fit: cover;
-
-    /* Adjust photo positioning */
-    object-position: center 18%;
-}
-
-
-.homepage-profile-text {
-    text-align: left;
-}
-
-
-.homepage-profile-text h1 {
-    font-size: 2.1rem;
-    margin: 0 0 4px 0;
-    line-height: 1.2;
-}
-
-
-.homepage-profile-text h3 {
-    font-size: 1rem;
-    font-weight: 400;
-    color: #777;
-    margin: 0 0 8px 0;
-    line-height: 1.3;
-}
-
-.homepage-socials {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 1rem;
-}
-
-
-.homepage-socials a {
-    text-decoration: none;
-}
-
 
 /* ================================
    Blowfish global content width override

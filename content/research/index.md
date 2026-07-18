@@ -4,9 +4,7 @@ title: "Research"
 
 # Research
 
-My research interests lie at the intersection of statistical learning, machine learning, and biomedical data science. I am particularly interested in developing interpretable statistical methods that extract reliable information from complex biological systems while maintaining scientific validity and interpretability.
-
-My current work spans physiological signal analysis, computational biology, and health data science, with a common goal of developing data-driven approaches that improve our understanding of human health.
+My research interests lie at the intersection of statistical learning, machine learning, and biomedical data science. I am particularly interested in developing interpretable statistical methods that extract reliable information from complex biological systems while maintaining scientific validity and interpretability. My current work spans physiological signal analysis, computational biology, and health data science, with a common goal of developing data-driven approaches that improve our understanding of human health.
 
 ---
 
