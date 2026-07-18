@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jenna Lu</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:52054/</link>
     <description>Recent content on Jenna Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Jenna Lu</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52054/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Biomedical Representation Learning</title>
-      <link>http://localhost:1313/projects/pca-analysis/</link>
+      <link>http://localhost:52054/projects/pca-analysis/</link>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/pca-analysis/</guid>
+      <guid>http://localhost:52054/projects/pca-analysis/</guid>
       <description>Applying dimensionality reduction and deep learning approaches to extract biological representations from molecular datasets.</description>
       
     </item>
     
     <item>
       <title>Baseball Analytics</title>
-      <link>http://localhost:1313/projects/baseball/</link>
+      <link>http://localhost:52054/projects/baseball/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/baseball/</guid>
+      <guid>http://localhost:52054/projects/baseball/</guid>
       <description>Applying statistical analysis and visualization techniques to baseball tracking data.</description>
       
     </item>
     
     <item>
       <title>Interpretable CHD Risk Prediction</title>
-      <link>http://localhost:1313/projects/chd-risk/</link>
+      <link>http://localhost:52054/projects/chd-risk/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/chd-risk/</guid>
+      <guid>http://localhost:52054/projects/chd-risk/</guid>
       <description>Interpretable machine learning pipeline for cardiovascular risk prediction.</description>
       
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:52054/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:52054/about/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;About Me&#xD;&#xA;    &lt;div id=&#34;about-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#about-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;I am an undergraduate Statistics student at the University of Florida interested in developing interpretable statistical and machine learning methods for biomedical discovery. My work lies at the intersection of statistical learning, artificial intelligence, and computational biology, where I explore how quantitative methods can transform complex biological data into meaningful scientific insights.&lt;/p&gt;&#xA;&lt;p&gt;My interest in statistics began with a simple question: &lt;strong&gt;why?&lt;/strong&gt; Rather than viewing statistics as a collection of procedures, I became interested in understanding why methods work, when assumptions are justified, and how statistical reasoning can transform complex data into reliable scientific insights. Through experiences spanning neuroscience, computational biology, machine learning, and industry, I have developed a passion for creating statistical methods that are not only predictive, but also interpretable and scientifically meaningful.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Presentations</title>
-      <link>http://localhost:1313/presentations/</link>
+      <link>http://localhost:52054/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/presentations/</guid>
+      <guid>http://localhost:52054/presentations/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Presentations&#xD;&#xA;    &lt;div id=&#34;presentations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#presentations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;My presentations highlight research at the intersection of statistical modeling, biomedical data science, and addiction neuroscience. Through poster presentations and research symposiums, I communicate how statistical methods can transform complex physiological data into meaningful scientific insights.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;h1 class=&#34;relative group&#34;&gt;Methylphenidate and Cue-Evoked Heart Rate in Co-morbid Alcohol Use Disorder and ADHD&#xD;&#xA;    &lt;div id=&#34;methylphenidate-and-cue-evoked-heart-rate-in-co-morbid-alcohol-use-disorder-and-adhd&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#methylphenidate-and-cue-evoked-heart-rate-in-co-morbid-alcohol-use-disorder-and-adhd&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Poster Presentation&lt;/strong&gt;&lt;br&gt;&#xA;University of Florida CARE Annual Symposium • Spring 2026 Undergraduate Research Symposium&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>http://localhost:52054/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/research/</guid>
+      <guid>http://localhost:52054/research/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Research&#xD;&#xA;    &lt;div id=&#34;research&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#research&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;My research interests lie at the intersection of statistical learning, machine learning, and biomedical data science. I am particularly interested in developing interpretable statistical methods that extract reliable information from complex biological systems while maintaining scientific validity and interpretability.&lt;/p&gt;&#xA;&lt;p&gt;My current work spans physiological signal analysis, computational biology, and health data science, with a common goal of developing data-driven approaches that improve our understanding of human health.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>http://localhost:52054/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;Resume&#xD;&#xA;    &lt;div id=&#34;resume&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#resume&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;My resume provides an overview of my academic background, research experience, technical skills, teaching, and industry experience. It summarizes my work in statistical learning, biomedical data science, machine learning, and computational research. For additional details on my research projects, presentations, and publications, please explore the other sections of this website or Linkedin.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/pdfs/Jenna_Lu_Resume.pdf&#34; &gt;Download Resume&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:52054/resume/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Resume&#xD;&#xA;    &lt;div id=&#34;resume&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#resume&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;My resume provides an overview of my academic background, research experience, technical skills, teaching, and industry experience. It summarizes my work in statistical learning, biomedical data science, machine learning, and computational research. For additional details on my research projects, presentations, and publications, please explore the other sections of this website or Linkedin.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:52054/pdfs/Jenna_Lu_Resume.pdf&#34; &gt;Download Resume&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     

@@ -1,40 +1,6 @@
 ---
 title: "Jenna Lu" 
-showTitle: false
 ---
-
-<div class="homepage-profile">
-
-<img 
-src="/images/profile.jpg"
-alt="Jenna Lu"
-class="homepage-profile-image">
-
-<div class="homepage-profile-text">
-
-<h1>
-Jenna Lu
-</h1>
-
-<h3>
-Statistics Student | Biomedical Data Science Researcher
-</h3>
-
-<div class="homepage-socials">
-<a href="https://github.com/jen-h-lu" target="_blank">
-GitHub
-</a>
-<span> | </span>
-<a href="https://www.linkedin.com/in/jenna-h-lu/" target="_blank">
-LinkedIn
-</a>
-</div>
-
-</div>
-
----
-
-</div>
 
 # Research Vision
 
