@@ -1,6 +1,5 @@
 ---
 title: "Jenna Lu"
-layout: "profile"
 ---
 
 ## Research Vision
@@ -11,106 +10,109 @@ I am an Honors undergraduate studying Statistics at the University of Florida, w
 
 ## Research Interests
 
-<div style="display:grid;grid-template-columns:repeat(2,minmax(300px,1fr));gap:25px;margin-top:20px;">
+{{< columns >}}
 
-<div style="padding:24px;border-radius:14px;border:1px solid #ddd;">
-<h3>Statistical Learning</h3>
+### Statistical Learning
 
 Interpretable predictive modeling, regularization methods, uncertainty quantification, and statisitcal methodology for complex biomedical data. 
 
-</div>
+<--->
 
-<div style="padding:24px;border-radius:14px;border:1px solid #ddd;">
-<h3>Biomedical Data Science</h3>
+### Biomedical Data Science
 
 Developing computational methods for physiological molecular, and clinical datasets to improve scientific understanding and healthcare decision-making. 
 
-</div>
+{{< /columns >}}
 
-<div style="padding:24px;border-radius:14px;border:1px solid #ddd;">
-<h3>Artificial Intelligence</h3>
+
+{{< columns >}}
+
+### Artificial Intelligence
 
 Building machine learning models that prioritize scientific insight, interpretability, and reproducibility rather than prediction alone. 
 
-</div>
+<--->
 
-<div style="padding:24px;border-radius:14px;border:1px solid #ddd;">
-<h3>Statistical Computing</h3>
+### Statistical Computing
 
 Designing reproducible computational workflows, scalable analyses, and open-source statistical software.
-</div>
 
-</div>
+{{< /columns >}}
 
 ---
 
 # Featured Research
 
-<div style="display:grid;grid-template-columns:repeat(2,minmax(350px,1fr));gap:30px;">
+{{< columns >}}
 
-<div style="padding:26px;border-radius:14px;border:1px solid #ddd;">
-
-<h3>Neurological Aspects of Addiction Lab</h3>
+### Neurological Aspects of Addiction Lab 
 
 Analyzing heart rate variability and physiological signals to investigate physiological responses associated with addiction neuroscience.
 
-<b>Methods</b>
-<li>Time-series analysis</li>
-<li>Signal processing</li>
-<li>Mixed-effects modeling</li>
-<li>Statistical inference</li>
-</ul>
+**Methods**
 
-</div>
+- Heart rate variability analysis
+- Signal processing
+- Mixed-effects modeling
+- Statistical inference
 
-<div style="padding:26px;border-radius:14px;border:1px solid #ddd;">
+<--->
 
-<h3>Preventative Medicine Research</h3>
+### Preventative Medicine Research
 
 Investigating how vaccine-induced off-target immune effects may inform next-generation preventative medicine and strategies for reducing long-term disease risk, including neurodegenerative disorders.
 
-<b>Methods</b>
+**Methods**
 
-<ul>
-<li>Scientific literature synthesis</li>
-<li>Evidence evaluation</li>
-<li>Translational medicine</li>
-<li>Preventative health research</li>
-</ul>
+- Scientific literature synthesis
+- Evidence evaluation
+- Translational medicine
+- Preventative health research
 
-</div>
-
-</div>
+{{< /columns >}}
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-<div style="display:grid;grid-template-columns:repeat(2,minmax(350px,1fr));gap:30px;">
+{{< columns >}}
 
-<div style="padding:26px;border-radius:14px;border:1px solid #ddd;">
+### Interpretable CHD Risk Prediction
 
-<h3>Interpretable CHD Risk Prediction</h3>
+Developed an end-to-end statistical learning pipeline for predicting 10-year coronary heart disease risk using the Framingham Heart Study.
 
-
-Developed a statistical learning pipeline combining logistic regression, LASSO regularization, ROC analysis, and SHAP interpretation.
-
-<p><a href="/projects/chd-risk/"><strong>View Project →</strong></a></p>
-
-</div>
-
-<div style="padding:26px;border-radius:14px;border:1px solid #ddd;">
+Implemented:
+- Logistic regression
+- LASSO regularization
+- Calibration analysis
+- Bootstrap confidence intervals
+- SHAP interpretation
 
 
-<h3>Biomedical Machine Learning</h3>
+{{< button href="/projects/chd-risk/" >}}
+View Project
+{{< /button >}}
 
-Exploring representation learning and computational methods for extracting meaningful biological patterns.
 
-<p><a href="/projects/biomedical-ml/"><strong>View Project →</strong></a></p>
+<--->
 
-</div>
+### Biomedical Machine Learning
 
-</div>
+Exploring computational approaches for extracting meaningful biological representations from complex biomedical datasets.
+
+Research areas include:
+
+- Representation learning
+- Deep learning
+- Computational biology
+- Explainable AI
+
+
+{{< button href="/projects/biomedical-ml/" >}}
+View Project
+{{< /button >}}
+
+{{< /columns >}}
 
 ---
 
