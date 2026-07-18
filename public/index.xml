@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jenna Lu</title>
+    <link>https://jen-h-lu.github.io/</link>
+    <description>Recent content on Jenna Lu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Jenna Lu</copyright>
+    <atom:link href="https://jen-h-lu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://jen-h-lu.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-h-lu.github.io/about/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;About Me&#xD;&#xA;    &lt;div id=&#34;about-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#about-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;I am an undergraduate Statistics student at the University of Florida pursuing research at the intersection of statistical learning, artificial intelligence, and biomedical data science.&lt;/p&gt;&#xA;&lt;p&gt;My interest in statistics began with a simple question: &lt;strong&gt;why?&lt;/strong&gt; Rather than viewing statistics as a collection of procedures, I became interested in understanding why methods work, when assumptions are justified, and how statistical reasoning can transform complex data into reliable scientific insights.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>https://jen-h-lu.github.io/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-h-lu.github.io/presentations/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Presentations&#xD;&#xA;    &lt;div id=&#34;presentations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#presentations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;I have presented undergraduate research involving statistical modeling, physiological data analysis, and biomedical applications of machine learning.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;h1 class=&#34;relative group&#34;&gt;Methylphenidate and Cue-Evoked Heart Rate in Co-morbid Alcohol Use Disorder and ADHD&#xD;&#xA;    &lt;div id=&#34;methylphenidate-and-cue-evoked-heart-rate-in-co-morbid-alcohol-use-disorder-and-adhd&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#methylphenidate-and-cue-evoked-heart-rate-in-co-morbid-alcohol-use-disorder-and-adhd&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Poster Presentation&lt;/strong&gt;&lt;br&gt;&#xA;University of Florida CARE Annual Symposium&lt;br&gt;&#xA;Spring 2026 Undergraduate Research Symposium&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Research Overview&#xD;&#xA;    &lt;div id=&#34;research-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#research-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Presented research investigating physiological responses associated with alcohol cue exposure and methylphenidate treatment in individuals with co-morbid Alcohol Use Disorder (AUD) and Attention-Deficit/Hyperactivity Disorder (ADHD).&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jen-h-lu.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-h-lu.github.io/projects/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Projects&#xD;&#xA;    &lt;div id=&#34;projects&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#projects&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;My projects explore statistical learning, machine learning, and computational approaches for extracting meaningful insights from complex datasets.&lt;/p&gt;&#xA;&lt;p&gt;I am particularly interested in methods that balance predictive performance, interpretability, and reproducibility.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Interpretable CHD Risk Prediction&#xD;&#xA;    &lt;div id=&#34;interpretable-chd-risk-prediction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#interpretable-chd-risk-prediction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Developed an interpretable machine learning pipeline for coronary heart disease risk prediction using the Framingham Heart Study dataset.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://jen-h-lu.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-h-lu.github.io/research/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Research&#xD;&#xA;    &lt;div id=&#34;research&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#research&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;My research interests lie at the intersection of statistical learning, machine learning, and biomedical data science. I am particularly interested in developing interpretable statistical methods that extract reliable information from complex biological systems while maintaining scientific validity and interpretability.&lt;/p&gt;&#xA;&lt;p&gt;My current work spans physiological signal analysis, computational biology, and health data science, with a common goal of developing data-driven approaches that improve our understanding of human health.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://jen-h-lu.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-h-lu.github.io/resume/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Resume&#xD;&#xA;    &lt;div id=&#34;resume&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#resume&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;You can view my resume here:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jen-h-lu.github.io/pdfs/Jenna_Lu_Resume.pdf&#34; &gt;Download Resume&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

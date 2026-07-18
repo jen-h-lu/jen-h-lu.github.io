@@ -1,0 +1,7 @@
+baseURL = "https://jen-h-lu.github.io/"
+languageCode = "en"
+title = "Jenna Lu"
+theme = "blowfish"
+
+[params]
+mainSections = ["projects", "research", "posts"]

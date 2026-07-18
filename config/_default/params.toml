@@ -1,0 +1,33 @@
+colorScheme = "ocean"
+
+defaultAppearance = "light"
+
+autoSwitchAppearance = true
+
+enableSearch = true
+
+enableCodeCopy = true
+
+[author]
+name = "Jenna Lu"
+image = "images/profile.jpg"
+headline = "Statistics Student | Machine Learning Researcher"
+bio = "Interested in statistical learning, biomedical AI, and interpretable machine learning."
+links = [
+  { github = "https://github.com/jen-h-lu" },
+  { linkedin = "https://www.linkedin.com/in/jenna-h-lu/" }
+]
+
+showAppearanceSwitcher = true
+hideAuthor = false
+
+[article]
+showHero = true
+width = "wide"
+
+[list]
+showCards = true
+groupByYear = false
+cardView = true
+
+customCSS = ["css/custom.css"]
